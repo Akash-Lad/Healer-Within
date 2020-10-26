@@ -1,4 +1,4 @@
-# Healer Within Android Application
+# "Healer-Within" Android Application
 
 
 Your next step to living a better healthier you!
