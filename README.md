@@ -1,12 +1,8 @@
-# Fitness4You
+# Healer Within Android Application
 
-
-<p align="center">
-  <img width="300" height="300" src="screenshots/logo.jpg">
-</p>
 
 Your next step to living a better healthier you!
-Fitness4You is all about testing your body against yourself! Workout from your home, the gym, or outside!
+Healer Within is all about testing your body against yourself! Workout from your home, the gym, or outside!
 All you need is yourself, 30 minutes and a positive attitude!
 
 Choose the workouts you want to include in your workout regime, start your first workout, and never look back again!
@@ -25,47 +21,24 @@ Clone or download the project and you're on your way to victory!
 
 ## Prerequisites
 
-Fitness4You requires that you have a minimum SDK of 24 or higher.
+Healer Within requires that you have a minimum SDK of 24 or higher.
 
 
 ## Features
 
 ### 1. Build Your Profile
 
-
-<p align="center">
-  <img width="300" height="600" src="screenshots/welcome.png">
-</p>
-
-
 ### 2. Complete & Check Your Workouts
-
-
-<p align="center">
-  <img width="300" height="600" src="screenshots/mainActivity.png">
-</p>
-
 
 ### 3. Calculate Your BMI
 
-
-<p align="center">
-  <img width="300" height="600" src="screenshots/bmi.png">
-</p>
-
-
 ### 4. Don't Forget... Workout!
-
-
-<p align="center">
-  <img width="300" height="600" src="screenshots/workoutActivity.png">
-</p>
 
 
 ## Compatibility
 
 
-Fitness4You is compatiable for all Android phones and tablets of all sizes.
+Healer Within is compatiable for all Android phones and tablets of all sizes.
 
 
 ## Acknowledgments:
@@ -77,9 +50,4 @@ Fitness4You is compatiable for all Android phones and tablets of all sizes.
  4. [Twitter](https://developer.twitter.com)
  5. [Sieben](https://github.com/scoute-dich/Sieben)
  
- 
- ## Contributor:
-- [Chris Dias](https://github.com/chrisdias96)
 
-
-:copyright: 2018 Chris Dias, All rights reserved.
