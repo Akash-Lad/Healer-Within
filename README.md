@@ -1,7 +1,7 @@
-# "Healer-Within" Android Application
+# "Healer-Within" Android Application with SQLite DB
 
 
-Your next step to living a better healthier you!
+Your next step to living a better healthier you
 Healer Within is all about testing your body against yourself! Workout from your home, the gym, or outside!
 All you need is yourself, 30 minutes and a positive attitude!
 
